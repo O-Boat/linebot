@@ -1,2 +1,0 @@
-<?php
-echo "IoT NETPIE LINEBoT API by KANT CHAROENJIT.";
