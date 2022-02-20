@@ -1,6 +1,6 @@
  <?php
  function pubMqtt($topic,$msg){
-       $APPID= "projectESP32/"; //enter your appid
+       $APPID= "projectESP32"; //enter your appid
      $KEY = "LLjCf9lz87BuCsU"; //enter your key
     $SECRET = "ONfFsICMD1k3caoPQEB6Tid2U"; //enter your secret
     $Topic = "$topic"; 
