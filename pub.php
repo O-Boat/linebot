@@ -8,7 +8,6 @@
  
   }
  function getMqttfromlineMsg($Topic,$lineMsg){
-    echo "Get ON";
     $pos = strpos($lineMsg, ":");
     if($pos){
       $splitMsg = explode(":", $lineMsg);
