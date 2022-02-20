@@ -88,7 +88,7 @@
  }
  
  $lineData['URL'] = "https://api.line.me/v2/bot/message/reply";
- $lineData['AccessToken'] = "###";
+ $lineData['AccessToken'] = "MQURyh9ah6k+xg13oa1lC/beEK1TCOgUBXoRl84yO6ig3ay/XeRbO2njVxSs8qI6bz7YTph2RKmEaA8iQLFo9BzK08LQXIfODnv3EmYI42ud52NutXkaXAOMZrkCElWxhtXCQZZ9ftRC2P9VMrUY7wdB04t89/1O/w1cDnyilFU=";
  $replyJson["replyToken"] = $replyToken;
  $replyJson["messages"][0] = $replymessage;
  
