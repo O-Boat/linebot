@@ -37,5 +37,5 @@ if (!is_null($events['events'])) {
 $Topic = "ESP32_1" ;
 $text = "test";
 getMqttfromlineMsg($Topic,$text);
-echo "OK3";
+echo "1";
 ?>
