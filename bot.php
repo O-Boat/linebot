@@ -28,7 +28,7 @@ if (!is_null($events['events'])) {
 			$replyToken = $event['replyToken'];
 
 			// Build message to reply back
-			$Topic = "NodeMCU1" ;			
+			$Topic = "ESP32_1" ;			
 			getMqttfromlineMsg($Topic,$text);   
 			
 		}
